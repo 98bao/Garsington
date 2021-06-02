@@ -3,6 +3,9 @@
 Hi, this is the prototype that I built using Unity. Hope you enjoy it!
 It was inspired by a render of "rehearsal room 1" that has been shared with my group by our contact.
 
+### Requirements:
+I only tested the application on a Windows PC, it should however work fine on Mac and Linux.
+
 ### How to run:
 1. Download the folder and unzip it
 2. Launch garsington.exe
