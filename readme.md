@@ -12,8 +12,11 @@ It was inspired by a render of "rehearsal room 1" that has been shared with my g
 ### Keybinds:
 
 W A S D to move around
+
 Use mouse to look 
+
 Shift to sprint
+
 Space to jump
 
 
